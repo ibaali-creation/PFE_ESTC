@@ -1,0 +1,23 @@
+[Montage]
+addar = 101
+agdal = 102
+taille g = P
+aggal = 100
+taille d = P
+adgal = 102
+rg--- = 0
+aggar = 102
+rd--- = 0
+addal = 101
+
+[CdCF]
+baguetournante = E
+effortradiald = 2
+effortradialg = 2
+effortaxial1 = 0
+effortaxial0 = 0
+coutmax = 100
+
+[General]
+version = 0.31
+
