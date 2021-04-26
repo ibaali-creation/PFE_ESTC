@@ -1,4 +1,4 @@
-﻿"d_ext_rouleau"= 120
+﻿"d_ext_rouleau"= 90
 
 "epaisseur_rouleau"=80
 
@@ -36,18 +36,95 @@
 
 "k_anneau_arbre_rouleau"=1.5
 
-"h_matrice"= 15
+"entrax_vis_rouleau"=65
 
-"d_matrice"= 350
 
 
 "d_granulat"= 8
 
-"zone_vide_matrice" = 70
+"h_matrice"= 18
 
-"d_alesage_matrice"=50
+"d_matrice"= 220
 
-"a_clavette_alesage_matrice"=16
+"zone_vide_matrice" = 48
 
-"entrax_vis_rouleau"=86
+"d_alesage_matrice"=20
+
+"a_clavette_alesage_matrice"=6
+
+"B_roulement_matrice"= 12
+
+"d_ext_roulement_matrice"= 42
+
+"d_int_roulement_matrice"= 20
+
+"r_roulement_matrice"= 1
+
+"h_epaulement_arbre_matrice" = 100
+
+"j_clavette_arbre_matrice" = 6
+
+"g_anneaux_arbre_matrice" = 16.2
+
+"f_anneaux_arbre_matrice" = 1.1
+
+"B_roulement_bc_arbre_matrice"= 10
+
+"e_anneaux_arbre_matrice" = 1
+
+
+"h_polie_matrice" = 40
+
+"l_arbre_matrice" = 300
+
+"d_int_ecrou_encouch_matrice" = 20
+
+"d_ext_ecrou_encouch_matrice" = 32
+
+"b_ecrou_encouch_matrice" = 6
+
+"s_ecrou_encouch_matrice" = 4
+
+"G_ecrou_encouch_matrice" = 1
+
+"E_ecrou_encouch_matrice" = 4
+
+
+"d_int_roulement_conique_matrice"=25
+
+"d_ext_roulement_conique_matrice"=52
+
+"b_roulement_conique_matrice"=16.25
+
+
+"d_int_roulement_bc_matrice"=20
+
+"d_ext_roulement_bc_matrice"=42
+
+"b_roulement_bc_matrice"=12
+
+
+
+"d_tube_sup_carter"=244.5
+
+"e_tube_sup_carter"=12
+
+"d_tube_inf_catrer"= 168.3
+
+"e_tube_inf_carter"= 6
+
+
+"d_tube_inf_carter_cache" = 244.5
+
+"e_tube_inf_carter_cache" = 8
+
+"d_tube_sup_carter_cache" = 133
+
+"e_tube_sup_carter_cache" = 4
+
+"h_tube_trimee" = 40
+
+"e_tole" = 8
+
+"entraxe_vis_carter" = 196
 
